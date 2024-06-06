@@ -1,2 +1,3 @@
-def test()
+def test(){
   sh 'mvn  test'
+}
