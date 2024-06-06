@@ -1,3 +1,3 @@
-def build(){
+def call(){
   sh 'mvn clean build'
 }
