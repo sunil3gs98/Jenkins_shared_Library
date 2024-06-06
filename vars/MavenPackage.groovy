@@ -1,2 +1,3 @@
-def package()
+def package(){
   sh 'mvn clean package'
+}
