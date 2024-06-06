@@ -1,2 +1,3 @@
-def compile()
+def compile(){
   sh 'mvn  compile'
+}
