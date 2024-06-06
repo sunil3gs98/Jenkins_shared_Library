@@ -1,3 +1,3 @@
-def package(){
+def call(){
   sh 'mvn clean package'
 }
